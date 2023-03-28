@@ -1,0 +1,8 @@
+C:\Lekcje\Projektowanie oprogramowania\Zadanie tabele\Zadanie_tabele\Zadanie_tabele\bin\Debug\Zadanie_tabele.exe.config
+C:\Lekcje\Projektowanie oprogramowania\Zadanie tabele\Zadanie_tabele\Zadanie_tabele\bin\Debug\Zadanie_tabele.exe
+C:\Lekcje\Projektowanie oprogramowania\Zadanie tabele\Zadanie_tabele\Zadanie_tabele\bin\Debug\Zadanie_tabele.pdb
+C:\Lekcje\Projektowanie oprogramowania\Zadanie tabele\Zadanie_tabele\Zadanie_tabele\obj\Debug\Zadanie_tabele.csproj.AssemblyReference.cache
+C:\Lekcje\Projektowanie oprogramowania\Zadanie tabele\Zadanie_tabele\Zadanie_tabele\obj\Debug\Zadanie_tabele.csproj.SuggestedBindingRedirects.cache
+C:\Lekcje\Projektowanie oprogramowania\Zadanie tabele\Zadanie_tabele\Zadanie_tabele\obj\Debug\Zadanie_tabele.csproj.CoreCompileInputs.cache
+C:\Lekcje\Projektowanie oprogramowania\Zadanie tabele\Zadanie_tabele\Zadanie_tabele\obj\Debug\Zadanie_tabele.exe
+C:\Lekcje\Projektowanie oprogramowania\Zadanie tabele\Zadanie_tabele\Zadanie_tabele\obj\Debug\Zadanie_tabele.pdb
